@@ -17,7 +17,7 @@ A simple calculator application that performs basic arithmetic operations.
 
 Clone the repository:
 ```bash
-git clone https://github.com/Shifrozy/Simple-Calculator
+git clone https://github.com/MuhammadHassanC/Simple-Calculator
 ```
 
 ## Usage
